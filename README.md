@@ -10,7 +10,7 @@ You can follow my <a href="https://goo.gl/U0x1Fy">development blog</a> for the l
 
 **DOWNLOAD THE APP**
 
-App now available on Google Play Store:
+App now available on Google Play Store.
 
 <a href="http://goo.gl/43IbMG"><img src="http://therefactory.bplaced.net/img/google-play-badge.png" width="180"></a>
 

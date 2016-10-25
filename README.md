@@ -2,6 +2,8 @@
 
 This app brings you the soothing sound of wind blown through the legendary Horn of Quintus which is known to enchant its surrounding fauna.
 
+<img src="http://therefactory.bplaced.net/projects-json/thehornofquintus/icon.png" height="20%" width="20%" >
+
 A must-have app for all you taffers out there!
 
 You can follow my <a href="https://goo.gl/U0x1Fy">development blog</a> for the latest news on this and other projects of mine.

@@ -8,7 +8,7 @@ You can follow my <a href="https://goo.gl/U0x1Fy">development blog</a> for the l
 
 ***
 
-**DOWNLOAD THE APP**
+**DOWNLOAD**
 
 App now available on Google Play Store.
 

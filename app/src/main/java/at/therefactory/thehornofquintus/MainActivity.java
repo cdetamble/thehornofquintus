@@ -9,24 +9,25 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
-    private MediaPlayer bgm;
+    private MediaPlayer mediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        bgm = MediaPlayer.create(getApplicationContext(), R.raw.thehornofquintus);
-        bgm.setLooping(true);
-        bgm.start();
+        mediaPlayer = MediaPlayer.create(getApplicationContext(), R.raw.thehornofquintus);
+        mediaPlayer.setLooping(true);
+        mediaPlayer.setVolume(1, 1);
+        mediaPlayer.start();
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        bgm.release();
+        mediaPlayer.release();
     }
 
-    @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
+    @TargetApi(Build.VERSION_CODES.KITKAT)
     @Override
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);

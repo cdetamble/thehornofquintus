@@ -7,6 +7,7 @@ The Horn of Quintus - Changelog
 * Enable immersive mode only from KitKat onwards
 * Added missing xxxhdpi launcher icon
 * Updated Gradle Plug-in version to 2.2.2
+* Improved readability of source code
 
 ### Version 1.0.1 - September 13, 2016
 

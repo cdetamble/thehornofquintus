@@ -2,7 +2,9 @@
 
 *This Android app brings you the soothing sound of wind blown through the legendary Horn of Quintus which is known to enchant its surrounding fauna.*
 
-[![version](https://img.shields.io/badge/version-1.0.2-2095ff.svg)](CHANGELOG.md) [![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
+[![version](https://img.shields.io/badge/version-1.0.2-2095ff.svg)](CHANGELOG.md)
+[![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
+[![download](https://img.shields.io/badge/download-play store-2095ff.svg)](http://goo.gl/43IbMG)
 
 A must-have app for all you taffers out there!
 

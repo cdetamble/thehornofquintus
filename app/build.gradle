@@ -20,15 +20,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.3"
+    compileSdkVersion 26
+    buildToolsVersion "26.0.3"
 
     defaultConfig {
         applicationId "at.therefactory.thehornofquintus"
         minSdkVersion 8
-        targetSdkVersion 24
-        versionCode 102
-        versionName "1.0.2"
+        targetSdkVersion 26
+        versionCode 103
+        versionName "1.0.3"
     }
     buildTypes {
         release {

@@ -1,7 +1,7 @@
 The Horn of Quintus - Changelog
 =========
 
-### Version 1.0.3 - February 2, 2018
+### Version 1.0.3 - February 26, 2018
 
 * Optimized for latest Android versions
 

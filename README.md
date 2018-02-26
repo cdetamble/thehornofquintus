@@ -1,8 +1,10 @@
-# The Horn of Quintus <img src="http://therefactory.bplaced.net/projects-json/thehornofquintus/icon.png" height="32px">  <a href="https://www.youtube.com/channel/UCShL6kEbNc02XjA89zsrtDQ"><img src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" height="32px" align="right"></a>
+# The Horn of Quintus <img src="http://therefactory.bplaced.net/projects-json/thehornofquintus/icon.png" height="32px">  <a href="https://www.youtube.com/channel/UCShL6kEbNc02XjA89zsrtDQ"><img src="http://therefactory.bplaced.net/img/youtube_hover.png" height="32px" align="right"></a>
 
 *This Android app brings you the soothing sound of wind blown through the legendary Horn of Quintus which is known to enchant its surrounding fauna.*
 
-[![version](https://img.shields.io/badge/version-1.0.2-2095ff.svg)](CHANGELOG.md) [![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
+[![version](https://img.shields.io/badge/version-1.0.2-2095ff.svg)](CHANGELOG.md)
+[![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
+[![download](https://img.shields.io/badge/download-playstore-2095ff.svg)](http://goo.gl/43IbMG)
 
 A must-have app for all you taffers out there!
 
